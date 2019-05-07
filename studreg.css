@@ -1,0 +1,34 @@
+h1{
+color:#e842f4;
+text-align:center;
+}
+table th{
+width:10%;
+text-align:center;
+border:1px solid black;
+background-color:#ffd78c;
+}
+table td{
+border:2px solid black;
+padding:10px;
+}
+
+table tbody tr:nth-child(even){
+background-color:#bde9ba;
+}
+table{
+border-collapse:collapse;
+}
+table{
+margin-left:auto;
+margin-right:auto;
+background-color:#f4d742;
+}
+table th{
+font-size:30px;
+color:#42d9f4;
+}
+body{
+background-color:#f4f142;
+}
+
